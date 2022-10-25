@@ -4,7 +4,9 @@ Created on Wed Mar  9 18:56:36 2022
 
 @author: Pratik
 """
-
+"""
+its amazimg
+"""
 import turtle
 #turtle.bgcolor("black")
 tur = turtle.Turtle()  #tur is pen
